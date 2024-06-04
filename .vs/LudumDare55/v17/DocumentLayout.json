@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chris\\LudumDare55\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A17A9BB8-B514-E6F9-7F55-8486B9534F90}|Assembly-CSharp.csproj|c:\\users\\chris\\ludumdare55\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17A9BB8-B514-E6F9-7F55-8486B9534F90}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17A9BB8-B514-E6F9-7F55-8486B9534F90}|Assembly-CSharp.csproj|C:\\Users\\chris\\LudumDare55\\assets\\scripts\\player\\fillhealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17A9BB8-B514-E6F9-7F55-8486B9534F90}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\fillhealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FillHealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\LudumDare55\\Assets\\Scripts\\Player\\FillHealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\FillHealthBar.cs",
+              "ToolTip": "C:\\Users\\chris\\LudumDare55\\Assets\\Scripts\\Player\\FillHealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\FillHealthBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:33:15.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\LudumDare55\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "C:\\Users\\chris\\LudumDare55\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:30:31.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
